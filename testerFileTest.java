@@ -6,6 +6,6 @@ public class testerFileTest {
     //Test should fail
     @Test
     public void testIsEven() {
-        assertEquals(true, testerFile.isEvenSum(4, 3));
+        assertEquals(true, testerFile.isEvenSum(4, 2));
     }
 }
